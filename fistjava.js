@@ -1,4 +1,4 @@
-
+setTimeout(function(){ 
 
 var nom = prompt("c'est quoi ton blase?");
 
@@ -20,3 +20,4 @@ else {
   win.focus();
 }
 
+ }, 3000);
